@@ -1,0 +1,28 @@
+{
+  "title": "Andy's Wish List",
+  "subtitle": "Coordinate among yourselves so nobody doubles up!",
+  "items": [
+    {
+      "name": "Example: Noise-cancelling headphones",
+      "price": "$250",
+      "priority": "high",
+      "link": "https://example.com",
+      "image": "",
+      "notes": "Black or silver, either is great."
+    },
+    {
+      "name": "Example: A good paperback novel",
+      "price": "$15",
+      "priority": "medium",
+      "link": "",
+      "image": "",
+      "notes": "Surprise me!"
+    },
+    {
+      "name": "Example: Coffee beans",
+      "price": "$20",
+      "priority": "low",
+      "notes": "Medium roast, whole bean."
+    }
+  ]
+}

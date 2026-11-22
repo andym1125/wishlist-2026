@@ -4,7 +4,8 @@
   "items": [
     {
       "name": "TBPN Ultradome hat (black)",
-      "link": "https://merch.tbpn.com/ultradome-black-hat"
+      "link": "https://merch.tbpn.com/ultradome-black-hat",
+      "image": "https://cdn.shopify.com/s/files/1/0841/8423/6269/files/tbpn-black-thunderdome-hat-01.png?v=1794261816&width=1280"
     },
     {
       "name": "SETTINI Celtic Cross leather Bible journal",
@@ -21,15 +22,18 @@
     {
       "name": "Shiner Gold Bock cap",
       "link": "https://merch.shiner.com/product/gold-bock-cap/1665",
-      "notes": "Or a similar Texas-themed hat."
+      "notes": "Or a similar Texas-themed hat.",
+      "image": "https://144734392.cdn6.editmysite.com/uploads/1/4/4/7/144734392/75GVFLC53BEX6ARA4MPBLWDW.png"
     },
     {
       "name": "Polyphia \"Be Not Afraid\" LP (black ice / white wave)",
-      "link": "https://polyphia.com/products/be-not-afraid-lp-black-ice-white-wave-standard-lp"
+      "link": "https://polyphia.com/products/be-not-afraid-lp-black-ice-white-wave-standard-lp",
+      "image": "https://polyphia.com/cdn/shop/files/StandardVariant-10MD257_BlackIceWhiteWave.png?v=1787249122&width=1946"
     },
     {
       "name": "Polyphia metal logo Realtree hat",
-      "link": "https://polyphia.com/products/metal-logo-realtree-hat"
+      "link": "https://polyphia.com/products/metal-logo-realtree-hat",
+      "image": "https://polyphia.com/cdn/shop/files/POL-METAL-LOGO-HAT.png?v=1756405295&width=1946"
     },
     {
       "name": "Hnefatafl two-player strategy game (wooden board)",

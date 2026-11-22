@@ -59,6 +59,14 @@
       "price": "$28.34",
       "notes": "By Dingbats Wildlife, 192 cream pages.",
       "link": "https://www.amazon.com/Hyatts-Exclusive-Notebook-Dotted-Dingbats/dp/B0973WDDWS"
+    },
+    {
+      "name": "Steel tipped darts",
+      "image": "images/steel-tip-darts.png"
+    },
+    {
+      "name": "Dart board with wall protector",
+      "image": "images/dartboard-wall-protector.png"
     }
   ]
 }

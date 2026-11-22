@@ -2,27 +2,16 @@
   "title": "Andy's Wish List",
   "subtitle": "Coordinate among yourselves so nobody doubles up!",
   "items": [
-    {
-      "name": "Example: Noise-cancelling headphones",
-      "price": "$250",
-      "priority": "high",
-      "link": "https://example.com",
-      "image": "",
-      "notes": "Black or silver, either is great."
-    },
-    {
-      "name": "Example: A good paperback novel",
-      "price": "$15",
-      "priority": "medium",
-      "link": "",
-      "image": "",
-      "notes": "Surprise me!"
-    },
-    {
-      "name": "Example: Coffee beans",
-      "price": "$20",
-      "priority": "low",
-      "notes": "Medium roast, whole bean."
-    }
+    { "name": "TBPN Ultradome hat (black)", "link": "https://merch.tbpn.com/ultradome-black-hat" },
+    { "name": "SETTINI Celtic Cross leather Bible journal", "price": "$25.46", "notes": "A5 vegan leather prayer journal with pen, 192 pages." },
+    { "name": "Philips Norelco All-in-One 3000 trimmer", "price": "$24.96", "notes": "13-in-1 face and hair grooming kit." },
+    { "name": "Shiner Gold Bock cap", "link": "https://merch.shiner.com/product/gold-bock-cap/1665", "notes": "Or a similar Texas-themed hat." },
+    { "name": "Polyphia \"Be Not Afraid\" LP (black ice / white wave)", "link": "https://polyphia.com/products/be-not-afraid-lp-black-ice-white-wave-standard-lp" },
+    { "name": "Polyphia metal logo Realtree hat", "link": "https://polyphia.com/products/metal-logo-realtree-hat" },
+    { "name": "Hnefatafl two-player strategy game (wooden board)", "notes": "Can be found for cheaper, around $50." },
+    { "name": "LEGO Architecture Statue of Liberty (21042)", "price": "$119.99" },
+    { "name": "LEGO Creator Expert Ford Mustang (10265)" },
+    { "name": "LEGO Icons Pickup Truck (10290)", "price": "$263.90" },
+    { "name": "Hyatt's hardcover dotted notebook, Blue Bison (A5+)", "price": "$28.34", "notes": "By Dingbats Wildlife, 192 cream pages." }
   ]
 }

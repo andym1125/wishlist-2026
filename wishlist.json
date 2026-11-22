@@ -2,16 +2,59 @@
   "title": "Andy's Wish List",
   "subtitle": "Coordinate among yourselves so nobody doubles up!",
   "items": [
-    { "name": "TBPN Ultradome hat (black)", "link": "https://merch.tbpn.com/ultradome-black-hat" },
-    { "name": "SETTINI Celtic Cross leather Bible journal", "price": "$25.46", "notes": "A5 vegan leather prayer journal with pen, 192 pages." },
-    { "name": "Philips Norelco All-in-One 3000 trimmer", "price": "$24.96", "notes": "13-in-1 face and hair grooming kit." },
-    { "name": "Shiner Gold Bock cap", "link": "https://merch.shiner.com/product/gold-bock-cap/1665", "notes": "Or a similar Texas-themed hat." },
-    { "name": "Polyphia \"Be Not Afraid\" LP (black ice / white wave)", "link": "https://polyphia.com/products/be-not-afraid-lp-black-ice-white-wave-standard-lp" },
-    { "name": "Polyphia metal logo Realtree hat", "link": "https://polyphia.com/products/metal-logo-realtree-hat" },
-    { "name": "Hnefatafl two-player strategy game (wooden board)", "notes": "Can be found for cheaper, around $50." },
-    { "name": "LEGO Architecture Statue of Liberty (21042)", "price": "$119.99" },
-    { "name": "LEGO Creator Expert Ford Mustang (10265)" },
-    { "name": "LEGO Icons Pickup Truck (10290)", "price": "$263.90" },
-    { "name": "Hyatt's hardcover dotted notebook, Blue Bison (A5+)", "price": "$28.34", "notes": "By Dingbats Wildlife, 192 cream pages." }
+    {
+      "name": "TBPN Ultradome hat (black)",
+      "link": "https://merch.tbpn.com/ultradome-black-hat"
+    },
+    {
+      "name": "SETTINI Celtic Cross leather Bible journal",
+      "price": "$25.46",
+      "notes": "A5 vegan leather prayer journal with pen, 192 pages.",
+      "link": "https://www.amazon.com/SETTINI-Celtic-Cross-Bible-Journal/dp/B08GL6QRQZ"
+    },
+    {
+      "name": "Philips Norelco All-in-One 3000 trimmer",
+      "price": "$24.96",
+      "notes": "13-in-1 face and hair grooming kit.",
+      "link": "https://www.amazon.com/Philips-Norelco-All-Trimmer-Comfort/dp/B0FHXPF71X"
+    },
+    {
+      "name": "Shiner Gold Bock cap",
+      "link": "https://merch.shiner.com/product/gold-bock-cap/1665",
+      "notes": "Or a similar Texas-themed hat."
+    },
+    {
+      "name": "Polyphia \"Be Not Afraid\" LP (black ice / white wave)",
+      "link": "https://polyphia.com/products/be-not-afraid-lp-black-ice-white-wave-standard-lp"
+    },
+    {
+      "name": "Polyphia metal logo Realtree hat",
+      "link": "https://polyphia.com/products/metal-logo-realtree-hat"
+    },
+    {
+      "name": "Hnefatafl two-player strategy game (wooden board)",
+      "notes": "Can be found for cheaper, around $50.",
+      "link": "https://www.amazon.com/Hnefatafl-Two-Player-Strategy-Game/dp/B07DJNX3VJ"
+    },
+    {
+      "name": "LEGO Architecture Statue of Liberty (21042)",
+      "price": "$119.99",
+      "link": "https://www.amazon.com/LEGO-Architecture-Skyline-Collection-Building/dp/B0793JTRKG"
+    },
+    {
+      "name": "LEGO Creator Expert Ford Mustang (10265)",
+      "link": "https://www.amazon.com/LEGO-Creator-Expert-CONF_Expert_2_2019-10265/dp/B07JXP6RW5"
+    },
+    {
+      "name": "LEGO Icons Pickup Truck (10290)",
+      "price": "$263.90",
+      "link": "https://www.amazon.com/LEGO-Pickup-Display-Authentic-Vintage/dp/B094RF7GWQ"
+    },
+    {
+      "name": "Hyatt's hardcover dotted notebook, Blue Bison (A5+)",
+      "price": "$28.34",
+      "notes": "By Dingbats Wildlife, 192 cream pages.",
+      "link": "https://www.amazon.com/Hyatts-Exclusive-Notebook-Dotted-Dingbats/dp/B0973WDDWS"
+    }
   ]
 }
